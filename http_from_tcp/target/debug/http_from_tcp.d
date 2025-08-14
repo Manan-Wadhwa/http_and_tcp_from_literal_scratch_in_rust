@@ -1,0 +1,1 @@
+C:\Users\wadhw\OneDrive\Desktop\CourseAndCoding\http_and_tcp_from_literal_scratch_in_rust\http_from_tcp\target\debug\http_from_tcp.exe: C:\Users\wadhw\OneDrive\Desktop\CourseAndCoding\http_and_tcp_from_literal_scratch_in_rust\http_from_tcp\src\main.rs
