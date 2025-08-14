@@ -1,0 +1,12 @@
+# Ignore the build directory
+http_from_tcp/target/
+
+# Ignore log files
+*.log
+
+# Ignore environment variables
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
